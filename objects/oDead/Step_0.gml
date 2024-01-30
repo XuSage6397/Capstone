@@ -2,7 +2,7 @@ if (done == 0)
 {
 	vsp = vsp + grv;
 
-
+		// hello!
 	//Horizontal collision
 	if (place_meeting(x+hsp,y,oWall))
 	{
